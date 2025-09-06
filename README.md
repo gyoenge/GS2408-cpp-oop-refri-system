@@ -1,10 +1,10 @@
 # GIST OOP Course C++ Team Project 
 ## SMARTREFRI: Smart Refrigerater Management & Recommendation System 
 
-- GIST OOP(Object Oriented Programming) Course, GS2408
-- C++ Team Project
-- Number of people: 2 
-
+- Course: GIST Object-Oriented Programming (GS2408)
+- Project Type: C++ Team Project
+- Team Size: 2 Members
+  
 ### Description 
 
 - An educational project demonstrating object-oriented programming (OOP) concepts in C++ by simulating a smart refrigerator system simulation.
